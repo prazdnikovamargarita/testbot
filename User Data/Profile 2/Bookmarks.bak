@@ -1,0 +1,69 @@
+{
+   "checksum": "900c1d55cabbc9efb672a677772477b7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13292591038896029",
+            "guid": "70de4b81-dca2-4fa6-adf5-03451dea36b8",
+            "id": "11",
+            "name": "Home – WebsitesVerification – Google Cloud Platform",
+            "type": "url",
+            "url": "https://console.cloud.google.com/home/dashboard?project=websitesverification"
+         }, {
+            "date_added": "13281791563019405",
+            "guid": "e215afaf-73a7-4bc2-96c3-f25afba888ad",
+            "id": "5",
+            "name": "Credentials – APIs & Services – Google Search Conso… – Google Cloud Platform",
+            "type": "url",
+            "url": "https://console.cloud.google.com/apis/credentials?project=genial-airway-332608&supportedpurview=project"
+         }, {
+            "date_added": "13282142463221369",
+            "guid": "b75027fb-6e2f-418d-a41e-3b2c6e17dbdb",
+            "id": "6",
+            "name": "Урок 0: Подготовка рабочего места в Windows и Linux. Virtual Environment (venv). Ответы на вопросы | Пишем ботов для Telegram на языке Python",
+            "type": "url",
+            "url": "https://mastergroosha.github.io/telegram-tutorial/docs/pyTelegramBotAPI/lesson_00/"
+         }, {
+            "date_added": "13282153995501783",
+            "guid": "95ffdff5-ca9d-4d23-a558-61785606d4c9",
+            "id": "7",
+            "name": "Sitemaps: list  |  Search Console API  |  Google Developers",
+            "type": "url",
+            "url": "https://developers.google.com/webmaster-tools/search-console-api-original/v3/sitemaps/list?apix_params=%7B%22siteUrl%22%3A%22https%3A%2F%2Fwykotaranch.com%2F%22%7D"
+         }, {
+            "date_added": "13282849223624631",
+            "guid": "6ad02af2-b91f-4c1b-8b65-5c62eb0ea848",
+            "id": "9",
+            "name": "OAuth API verification FAQs - Google Cloud Platform Console Help",
+            "type": "url",
+            "url": "https://support.google.com/cloud/answer/9110914?hl=en"
+         } ],
+         "date_added": "13281784320973071",
+         "date_modified": "13292591038896029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281784320973074",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13281784320973077",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpQCCvMBCIiBAhLsARJSCAISTgoGCgJibRABEDMaEgmANHHcW+cFACGANHHcW+cFACIUCfJjuuxb5wUAEAgZ53hfQvVTHQUyGAoWCAIRyVnS7FvnBQAYACEAAAAAAAAAABI8CAISOAoGCgJiZBAAEDMaEgmANHHcW+cFACGANHHcW+cFADIYChYIAhHJWdLsW+cFABgAIQAAAAAAAAAAIABI7o23w64wcO6Nt8OuMJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCYDJK+db5wUAEYDJK+db5wUAKa4g0+xb5wUAMICTr7m+6/kCEgAgASoYNTV2akpnS3dUUk1RS1NDNDFoQS9TQT09EuwBCAkS5wEKHEQ3eXJJcDNReGhDdmVoOXdQYy9MYzZIRGRPRT0SZlo6QURxdEFaeXV0NnpwaHZXa3dKdTk2NGVYa2NmRmZHV09iOWV3cnBneHgvbWxBc1FBYU1sOVN6blNHdThXb2p1N3FYUVo0d1FMb01hZjBtelIvTmpVK00xemM1bi93bzlyQmc9PRgAIAEoATDxx+nlvuv5Ajjg/rbDrjBA4P62w64wShxJaTUvNEUxTlRqQXIxa1JiYWxLT3B6OE8vQmc9Wh8iHeptQ1crWG5OTEo2VHUwWkxDVmo2N1pUU2JaSDQ9ZRAw/+QS7AEIBxLnAQocdmlya1VDZ3RsSnhpNm9mMDN2TzltT1l3MDFBPRJmWjpBRHF0QVp5dXQ2enBodldrd0p1OTY0ZVhrY2ZGSUd4ODVLeTVoM0ZDK0V4TDRkeXloOVhSR0ZVUG10WE5Hd1VTR3NCTlloVk9IZ0hEWFkwSHk3YlpYYTZzTDZwRmhmeWNVZz09GAAgASgBMPHH6eW+6/kCOOD+tsOuMEDg/rbDrjBKHHJWZFJRL3RMdUYveEp2OU55Mllvck5uYk44az1aHyId1XA0T2kvdWtBVk1QaHhEc3llQ0RaWnRFU1dwaz1lncmEohLsAQgGEucBChxhMDBhZkNuY0xZWjVqYzhHbEhydHRBSnhOdjQ9EmZaOkFEcXRBWnl1dDZ6cGh2V2t3SnU5NjRlWGtjZkZuRUdMOHlPQ1ZpNW9GWlF4STNRMERWTVN0VmJYeFF3N3N5NjhZMG5iRkc1Q1RZTDR5N3ZObEd3S2pVakJsRTdMdWE4dHFRPT0YACABKAEw8cfp5b7r+QI44P62w64wQOD+tsOuMEocOVUvV3lPNmw4emxOZG9sdlpmeTI3dTZDaXRBPVofIh2rOS9zay90cFBHd0lvcGhUeE82eTJZbWNtQzJNPWVvCAKhEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeG9NQmR5cTNVcy8zQ2RQQlBvbHNlUEJPcFpCTW9DdFQ1eWVyajVXSkdqdWJ0TmlMMWxBajE1ejNtK3EybHFjSGx4OXNCSGNSdHZqOWFpOEpGd2xqVkFyRVZCWkE9PRgAIAAoADDbx7nlvuv5AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAUS5gEKHFNYUmxmd0FDclozNkdxUDd4QmZSV3Z5Tm9kOD0SZlo6QURxdEFaeXV0NnpwaHZXa3dKdTk2NGVYa2NmRm9PaHFUTVhzTjdpSXBKUEp6WmRkdklQWTcwVXdQcGxIRHY0Z0lZRHBlc1BDVjhIWFBYUFp4c2tHOG4rVkVuV3pldWFGSWc9PRgAIAEoATDxx+nlvuv5Ajjg/rbDrjBA4P62w64wShw2RTZ0Z0RQdWRCZlBucFprVTIwQzVsZmtYRms9Wh4iHFdJeVQ4dEs1OE5RZ0VTU0RiM2VZV1ZNWmw0dz1lzKRZUBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpMK280SFgvelZyKzM2aHNpOWI4QXlPT0FMVmtvZnFzYk14aFBaSHA1dE1pSUswZDRWODk2UERwR1FBNFBGd2E0M2UxTFZ3UGg0UEZFVFFTcVVIRkczWWlOR3Z3PT0YACAAKAAw28e55b7r+QI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgLEuYBChx0c2NubFZ5Y3ZwWFFaMmNNM29wM2gwaWRZdFE9EmZaOkFEcXRBWnl1dDZ6cGh2V2t3SnU5NjRlWGtjZkY0UUkvanYwc2g2Z2lyazM3TVZjYXBFTDJQeDBpVTFTVGFvMHBiZ0VLOHpYWlJWK0s5cjJ3QnJ5cm5nNFpXRmlEN2ZDSUNnPT0YACACKAIw8cfp5b7r+QI4srPR2/svQOn+tsOuMEocM3JtMURyY0tQR0RFWkFTWlkwV2phQTZQalpVPVoeIhw1SnNTUWhDR3NvbklDR2o3Qm5nSnkvRXRMRkk9ZSqmgYISqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4eXc1bFM0WDdlVkQwTWFTYnhRbHdXVjdyWHROblVIWU4yVmxPUHV3eXR5OXZqclpldzA1eXpVS2RHdGk5emZTKytPejliGAAgACgAMNvHueW+6/kCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

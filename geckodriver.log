@@ -1,0 +1,115 @@
+1659950779835	geckodriver	INFO	Listening on 127.0.0.1:56879
+1659950782926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiwxArS"
+1659950784364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiwxArS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56880/devtools/browser/071aaae4-44e1-480c-9291-d057db6f5635
+1659950789432	Marionette	INFO	Listening on port 56924
+Read port: 56924
+1659950789586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code line 2 > eval line 5205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code line 2 > eval line 4138 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659950827056	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 4378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/SignUp?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAODABe-VWX2ld_tCUKvwqWUImJ7WbPacOh56JryeznjhcVEJpsfSwJ8XpnSVqvRrJDgxgbKgRIjba7nPvpeVIsaF2rmvrrdmKMpizdkT955ynHbP34KGbfxaczGrwZt-c56k6DBv0upcA5bcemy3EHH3EUvKtNYfIveux2suLTsGqsRBO_k-yhrqbkB3MAN6F4P-nqSxECYN7-lEgnBSszCUkp-fo9ucSIBc9HbUz3LaNEP3dVPmTQK9noRLXv-QHS38zMbVShGjrhJUk4M8mlwlNAKgkPSAWbVdYfBBpA0xULnXXMHXU_FTXlWJbUmiY8TknEOKdZjChk0-C_u02Jh_b2GHZJzZwumtUivWjdZ0T4vW2DxMXLaMjO1py54Z-XdsO9eky9N1Ca37ao8iotV_WTK65PK_a2GE8pxfYWVUS14e5o%26as%3DS1829297302%253A1659950826346295%26client_id%3D124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com%23&signInUrl=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%3Fclient_id%3D124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com%26redirect_uri%3Durn%253Aietf%253Awg%253Aoauth%253A2.0%253Aoob%26scope%3Dhttps%253A%252F%252Fwww.googleapis.com%252Fauth%252Fwebmasters.readonly%26access_type%3Doffline%26response_type%3Dcode%26flowName%3DGeneralOAuthFlow&dsh=S1829297302%3A1659950826346295 line 2 > eval line 3387 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?hl=uk&passive=true&continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3D%25D0%25BF%25D1%258C%25D1%2584%25D1%2588%25D0%25B4&ec=GAZAAQ line 2 > eval line 2449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?hl=uk&passive=true&continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3D%25D0%25BF%25D1%258C%25D1%2584%25D1%2588%25D0%25B4&ec=GAZAAQ line 2 > eval line 4448 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 3623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659951766778	Marionette	INFO	Stopped listening on port 56924
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659951846703	geckodriver	INFO	Listening on 127.0.0.1:58144
+1659951849733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilem1Bted"
+1659951850326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilem1Bted\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58145/devtools/browser/a9b455d2-f78b-46c3-91bd-6bada5c566ed
+1659951853550	Marionette	INFO	Listening on port 58172
+Read port: 58172
+1659951853591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code line 2 > eval line 4946 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code line 2 > eval line 656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659951865128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 3090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 3560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659951870462	Marionette	INFO	Stopped listening on port 58172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1660038248824	geckodriver	INFO	Listening on 127.0.0.1:57181
+1660038251913	mozrunner::runner	INFO	Running command: "C:\\P1660038254672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozproficonsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile6o2c2j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57190/devtools/browser/544a5c29-ae55-444f-a068-5a2ced2e487f
+1660038261346	Marionette	INFO	Listening on port 57297
+Read port: 57297
+1660038261452	RemoteAgent	WAJavaScript warning: https://pagead2.googlesyndication.com/bgJavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprec1660038281431	Marionette	INFO	Stopped listening on port 5721660038283851	Marionette	INFO	Stopped listening on port 57297
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1660038341698	geckodriver	INFO	Listening on 127.0.0.1:57491
+1660038344739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9k97Nl"
+1660038345136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile9k97Nl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57492/devtools/browser/1739b8a1-a5f8-4887-8e58-bb803d4b4bfb
+1660038347580	Marionette	INFO	Listening on port 57524
+Read port: 57524
+1660038347670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/7_ytIEpYWpd7XN7KxgxvHAG9q-1MjoUA1EpcWWHxRKk.js line 2 > eval line 3737 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a609%2c%22st%22%3a%2259%3a3%3abbc%2c16%3ae7d517aed0ed6622%2c10%3a1660038364%2c16%3aa6622ea632b14846%2cf2f34ee5afbf1ac75b52fb027a33a952414edcd2fd2e194ef26994623f017360%22%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22b36f886b39634b559060735e48448993%22%7d&response_type=code line 2 > eval line 6021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a609%2c%22st%22%3a%2259%3a3%3abbc%2c16%3ae7d517aed0ed6622%2c10%3a1660038364%2c16%3aa6622ea632b14846%2cf2f34ee5afbf1ac75b52fb027a33a952414edcd2fd2e194ef26994623f017360%22%2c%22cid%22%3a%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2c%22k%22%3a%22Google%22%2c%22ses%22%3a%22b36f886b39634b559060735e48448993%22%7d&response_type=code line 2 > eval line 6398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660038379531	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3A%2F%2Fstackauth.com%2Fauth%2Foauth2%2Fgoogle&state=%7B%22sid%22%3A609%2C%22st%22%3A%2259%3A3%3Abbc%2C16%3Ae7d517aed0ed6622%2C10%3A1660038364%2C16%3Aa6622ea632b14846%2Cf2f34ee5afbf1ac75b52fb027a33a952414edcd2fd2e194ef26994623f017360%22%2C%22cid%22%3A%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2C%22k%22%3A%22Google%22%2C%22ses%22%3A%22b36f886b39634b559060735e48448993%22%7D&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 2 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3A%2F%2Fstackauth.com%2Fauth%2Foauth2%2Fgoogle&state=%7B%22sid%22%3A609%2C%22st%22%3A%2259%3A3%3Abbc%2C16%3Ae7d517aed0ed6622%2C10%3A1660038364%2C16%3Aa6622ea632b14846%2Cf2f34ee5afbf1ac75b52fb027a33a952414edcd2fd2e194ef26994623f017360%22%2C%22cid%22%3A%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2C%22k%22%3A%22Google%22%2C%22ses%22%3A%22b36f886b39634b559060735e48448993%22%7D&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 2145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660038384528	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3A%2F%2Fstackauth.com%2Fauth%2Foauth2%2Fgoogle&state=%7B%22sid%22%3A609%2C%22st%22%3A%2259%3A3%3Abbc%2C16%3Ae7d517aed0ed6622%2C10%3A1660038364%2C16%3Aa6622ea632b14846%2Cf2f34ee5afbf1ac75b52fb027a33a952414edcd2fd2e194ef26994623f017360%22%2C%22cid%22%3A%22717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com%22%2C%22k%22%3A%22Google%22%2C%22ses%22%3A%22b36f886b39634b559060735e48448993%22%7D&response_type=code&flowName=GeneralOAuthFlow line 2 > eval line 5381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660038408926	Marionette	INFO	Stopped listening on port 57524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1660642543667	geckodriver	INFO	Listening on 127.0.0.1:53097
+1660642546730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMOHgHc"
+1660642548136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMOHgHc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53098/devtools/browser/ac673e8f-465a-46a7-970f-fea950e8adbf
+1660642550455	Marionette	INFO	Listening on port 53120
+Read port: 53120
+1660642550563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ppA1fI0VetKp8Yjs2tI4w37711CBJFVOi33fKYbLAYg.js line 2 > eval line 4461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660642640151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?client_id=124538964907-7n68c101qtdml0v8g3bgdacus0ju4bhf.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fwebmasters.readonly&access_type=offline&response_type=code line 2 > eval line 7496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  main/password-recipes Signature failed  InvalidSignatureError: Invalid content signature (main/password-recipes)
+console.error: services.settings: 
+  main/password-recipes local data was corrupted
+console.warn: services.settings: main/password-recipes Signature verified failed. Retry from scratch
+1661262862345	geckodriver	INFO	Listening on 127.0.0.1:54037
+1661262865396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileG8m2Pr"
+1661262866408	Marionette	INFO	Marionette enabled
+1661262866415	Marionette	INFO	Listening on port 54048
+WebDriver BiDi listening on ws://localhost:54038
+Read port: 54048
+1661262866563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileG8m2Pr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54038/devtools/browser/2e4342c4-c719-41cf-b764-678d1dc08347
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oORtDv9EbGDZJqtoCU6ZUa1h2CU5mRmZpTeRJMx0_5U.js line 2 > eval line 4233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
